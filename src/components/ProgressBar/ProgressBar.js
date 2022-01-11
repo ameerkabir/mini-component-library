@@ -64,6 +64,7 @@ const ProgressWrapper = styled.div`
   padding: var(--padding);
   background-color: ${COLORS.gray50};
   box-shadow: inset 0px 2px 4px ${COLORS.transparentGray35};
+  border-radius: 4px;
 `;
 
 const Bar = styled.div`
